@@ -18,6 +18,7 @@
   "homepage": "https://github.com/oscarhermawan/chatbotline#readme",
   "dependencies": {
     "@line/bot-sdk": "^2.0.0",
+    "dotenv": "^4.0.0",
     "express": "^4.15.3"
   }
 }
